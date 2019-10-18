@@ -261,3 +261,6 @@ PRODUCT_PROPERTY_OVERRIDES += \
 # Zygote preforking
 PRODUCT_PROPERTY_OVERRIDES += \
     persist.device_config.runtime_native.usap_pool_enabled=true
+
+# QC framework value-adds
+ro.vendor.qti.va_aosp.support=1
