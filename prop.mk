@@ -165,6 +165,7 @@ rild.libargs=-d/dev/smd0 \
 rild.libpath=/vendor/lib64/libril-qc-qmi-1.so \
 ro.telephony.call_ring.multiple=false \
 ro.telephony.default_network=22,20 \
+ro.telephony.use_old_mnc_mcc_format=true \
 service.qti.ims.enabled=1 \
 telephony.lteOnCdmaDevice=1 \
 persist.sys.fflag.override.settings_network_and_internet_v2=true
