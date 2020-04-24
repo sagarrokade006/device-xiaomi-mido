@@ -36,3 +36,9 @@ genfscon sysfs /sys/kernel/sound_control/speaker_gain                       u:ob
 
 # USB force fastcharge
 genfscon sysfs /sys/kernel/fast_charge/force_fast_charge                                     u:object_r:sysfs_fcharge:s0
+
+# EAS PowerHal (Debugfs)
+genfscon debugfs /mnh_sm                              u:object_r:debugfs_easel:s0
+genfscon debugfs /rpm_stats                           u:object_r:debugfs_rpm:s0
+genfscon debugfs /rpm_master_stats                    u:object_r:debugfs_rpm:s0
+genfscon debugfs /system_stats                        u:object_r:debugfs_rpm:s0
