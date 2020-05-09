@@ -1193,8 +1193,8 @@ vendor/lib64/vendor.qti.hardware.tui_comm@1.0.so|182440c6d1f9dde20ee12420ec63191
 vendor/lib/vndk-sp/libcutils.so|846d5769b71abca5b8fa185d4cf83a5cf1afed3c
 vendor/lib/vndk/libprocessgroup.so|62743ee7f648f0f742c35c9fbd7299186e91967a
 
-# Wi-Fi - from Tissot 9/PKQ1.180917.001/V10.0.20.0.PDHMIXM
-vendor/bin/wcnss_service|f8ecd38a41b6b7f832380b489e0c9804c34174d8
+# Wi-Fi - from Vsmart Casuarina 10/QKQ1.200311.002/V430A_OPN_U_B7_200425
+vendor/bin/wcnss_service|8f8506074fed6fa98965e2d955ddad120f1f1df4
 vendor/firmware/wlan/prima/WCNSS_cfg.dat|1672af1c3d4f04804f31d4b79a6e59ea4a8b1926
 vendor/firmware/wlan/prima/WCNSS_qcom_wlan_nv.bin|5e97baa4957609519835074071c879fbaf462266
 
