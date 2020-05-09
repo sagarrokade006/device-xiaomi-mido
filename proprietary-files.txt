@@ -770,7 +770,7 @@ vendor/lib64/libssd.so|bcb7c4213115f2377e0d30dd1a05cae5e88212e4
 
 # DRM - from Vsmart Casuarina 10/QKQ1.200311.002/V430A_OPN_U_B7_200425
 vendor/bin/hw/android.hardware.drm@1.2-service.widevine|31901223513e3748c761d6f721ac09e860e648a8
-vendor/etc/init/android.hardware.drm@1.2-service.widevine.rc|68767969f86126ada017fc09af151e299db651d5
+vendor/etc/init/android.hardware.drm@1.2-service.widevine.rc|ad2769dc38c425495c80e0a2cc4f3a4012108917
 vendor/lib64/libwvhidl.so|243a2f599de2769479d74b0cd839f4a998639754
 
 # Fingerprint
