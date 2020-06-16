@@ -251,3 +251,8 @@ PRODUCT_PROPERTY_OVERRIDES += \
     MultitouchMinDistance=1px \
     TapInterval=1ms \
     TapSlop=1px
+
+# Spectrum
+PRODUCT_PROPERTY_OVERRIDES += \
+    spectrum.support=1 \
+    persist.spectrum.kernel=Parallax
