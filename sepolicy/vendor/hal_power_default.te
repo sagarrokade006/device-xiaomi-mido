@@ -19,3 +19,5 @@ allow hal_power_default sysfs_kgsl:lnk_file read;
 allow hal_power_default debugfs_easel:dir search;
 allow hal_power_default debugfs_easel:file r_file_perms;
 allow hal_power_default debugfs_rpm:file r_file_perms;
+
+allow hal_power_default hal_power_default:capability { dac_override };
