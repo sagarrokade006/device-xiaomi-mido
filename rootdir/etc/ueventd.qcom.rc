@@ -377,6 +377,8 @@ firmware_directories /vendor/firmware_mnt/image/
 /sys/class/graphics/fb0     mode                     0664    system  graphics
 /sys/class/graphics/fb0     msm_cmd_autorefresh_en   0664    system  graphics
 /sys/class/graphics/fb0     dynamic_bitclk           0664    system  graphics
+/sys/class/kgsl/kgsl-3d0    max_freq                 0664    root  system
+/sys/class/kgsl/kgsl-3d0    min_freq                 0664    root  system
 /sys/devices/virtual/hdcp/msm_hdcp  min_level_change 0664    system  graphics
 
 # lirc
